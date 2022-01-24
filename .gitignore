@@ -1,0 +1,5 @@
+# ignore idea configuraiton files
+.idea/
+
+# ignore extra captcha files
+captcha/
